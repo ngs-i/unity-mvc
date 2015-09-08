@@ -1,0 +1,1 @@
+﻿using UnityEngine;using System.Collections;public class MenuContents : ViewBase {    [SerializeField]    private Animator _animator;    public Animator animator    {        get { return _animator; }    }	// Use this for initialization	void Start () {        //this.animation;	}		// Update is called once per frame	void Update () {		}}
